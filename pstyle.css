@@ -1,0 +1,36 @@
+.taf{
+	margin: auto;
+	margin-top:20px;
+	font-size:24px;
+	border:3px solid green;
+	background-color:gray;
+	color:white;
+}
+.tb{
+	font-size:20px;
+	width:300px;
+}
+.bt{
+	font-size:19px;
+	padding:3px 12px;
+}
+.dv{
+	text-align: center;
+	margin-top:50px;
+}
+.tar{
+	margin: auto;
+	margin-top:30px;
+	font-size:22px;
+	border-collapse:collapse;
+	border-color:red;
+	border-width: 2px;	
+	width:50%;
+}
+a{
+	font-size:23px;
+	font-family: lucida calligraphy
+}
+a:hover{
+	color:red;
+}
